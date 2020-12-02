@@ -96,7 +96,7 @@ Map {
   [rank<=5][zoom>=16],
   [zoom>=17] {
     [maxheight =~ '^\d.*'] {
-      height/shield-file: url('icon/shield/France_road_sign_B12.svg');
+      height/shield-file: url('shield/France_road_sign_B12.svg');
       height/shield-transform: scale(0.07,0.07);
       height/shield-name: [maxheight]+"m";
       height/shield-size: 10;
@@ -109,7 +109,7 @@ Map {
       height/shield-allow-overlap: false;
     }
     [maxweight =~ '^\d.*'] {
-      maxweight/shield-file: url('icon/shield/France_road_sign_B13.svg');
+      maxweight/shield-file: url('shield/France_road_sign_B13.svg');
       maxweight/shield-transform: scale(0.07,0.07);
       maxweight/shield-name: [maxweight]+"t";
       maxweight/shield-size: 10;
@@ -122,7 +122,7 @@ Map {
       maxweight/shield-allow-overlap: false;
     }
     [maxwidth =~ '^\d.*'] {
-      maxwidth/shield-file: url('icon/shield/France_road_sign_B11.svg');
+      maxwidth/shield-file: url('shield/France_road_sign_B11.svg');
       maxwidth/shield-transform: scale(0.07,0.07);
       maxwidth/shield-name: [maxwidth];
       maxwidth/shield-size: 10;
@@ -136,7 +136,7 @@ Map {
     }
     [hgv = 'no'],
     [goods = 'no'] {
-      hgv/shield-file: url('icon/shield/France_road_sign_B8.svg');
+      hgv/shield-file: url('shield/France_road_sign_B8.svg');
       hgv/shield-transform: scale(0.07,0.07);
       hgv/shield-name: '';
       hgv/shield-size: 10;
@@ -149,7 +149,7 @@ Map {
       hgv/shield-allow-overlap: false;
     }
     [hazmat = 'no'] {
-      hgv/shield-file: url('icon/shield/France_road_sign_B18c.svg');
+      hgv/shield-file: url('shield/France_road_sign_B18c.svg');
       hgv/shield-transform: scale(0.07,0.07);
       hgv/shield-name: '';
       hgv/shield-size: 10;
