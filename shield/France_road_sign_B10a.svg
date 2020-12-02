@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 16.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Ebene_1"
+   x="0px"
+   y="0px"
+   width="576px"
+   height="576px"
+   viewBox="0 0 576 576"
+   style="enable-background:new 0 0 576 576;"
+   xml:space="preserve"
+   sodipodi:docname="France_road_sign_B10a.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"><metadata
+   id="metadata979"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs977" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1529"
+   inkscape:window-height="974"
+   id="namedview975"
+   showgrid="false"
+   inkscape:zoom="0.40972222"
+   inkscape:cx="-578.44068"
+   inkscape:cy="288"
+   inkscape:window-x="49"
+   inkscape:window-y="24"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="Ebene_1" />
+
+<circle
+   style="fill:#FF0000;stroke:#FF0000;stroke-width:0.1764;stroke-linecap:round;stroke-linejoin:round;"
+   cx="287.969"
+   cy="287.969"
+   r="273.982"
+   id="circle950" />
+<circle
+   style="fill:#FFFFFF;stroke:#FF0000;stroke-width:0.1764;stroke-linecap:round;stroke-linejoin:round;"
+   cx="287.969"
+   cy="287.969"
+   r="192.438"
+   id="circle952" />
+<path
+   style="stroke:#000000;stroke-width:0.1764;stroke-linecap:round;stroke-linejoin:round;"
+   d="M338.226,288.069l-93.32-1.154  c-0.238-9.862-5.778-18.828-14.491-23.455c-8.712-4.626-19.243-4.194-27.547,1.131c-8.305,5.325-13.092,14.715-12.521,24.563  l-29.325-1.071l1.667-7.3h5l3.333-37.715h4.167l4.167-30.416l4.167-3.65l30.834-1.216V181.02h196.673v105.845h-18.701  c-0.426-14.87-12.774-26.607-27.647-26.277C349.807,260.92,337.99,273.195,338.226,288.069z"
+   id="path954" />
+<circle
+   style="stroke:#000000;stroke-width:0.1764;stroke-linecap:round;stroke-linejoin:round;"
+   cx="365.238"
+   cy="287.183"
+   r="24.078"
+   id="circle956" />
+<circle
+   style="stroke:#000000;stroke-width:0.1764;stroke-linecap:round;stroke-linejoin:round;"
+   cx="217.774"
+   cy="287.183"
+   r="24.1"
+   id="circle958" />
+<polygon
+   style="fill:#FFFFFF;stroke:#000000;stroke-width:0.1764;stroke-linecap:round;stroke-linejoin:round;"
+   points="  185.188,213.87 213.521,213.87 211.855,244.286 180.188,243.069 "
+   id="polygon960" />
+<path
+   d="M194.96,410.58l-37.441-30.166l37.441-30.167V410.58L194.96,410.58z M403.287,406.288v-57.317l42.24,28.658L403.287,406.288  z"
+   id="path962" />
+
+</svg>
